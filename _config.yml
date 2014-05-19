@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Sam is Well Cool
 markdown: redcarpet
 pygments: true
+timezone: Europe/London
+future: false
