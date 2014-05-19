@@ -2,7 +2,7 @@
 layout: post
 title: "E-Remember, or Something Witty Like That - a Definition of the Problem"
 date: 2014-05-19 19:33:00
-categories: ereader projects definition
+categories: projects ereader
 ---
 
 I have an issue. I can't work out if it's an issue with me, or with how
