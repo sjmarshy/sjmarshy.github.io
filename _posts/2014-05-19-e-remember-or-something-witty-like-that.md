@@ -13,12 +13,12 @@ a new area for me with development and user experience, so I'm happy about that.
 
 The issue, before I continue and forget to mention it, is this:
 
-* e-readers offer no real way to store user notes or related information well.
+**e-readers offer no real way to store user notes or related information well.**
 
 There are notes, there are highlighters, there are other solutions - but none of
 them work well for me. I suppose you could define the core problem as:
 
-* e-readers do not use being digital to the fullest advantage.
+**e-readers do not use being digital to the fullest advantage.**
 
 However, that one is a little big for me to tackle right now.
 
